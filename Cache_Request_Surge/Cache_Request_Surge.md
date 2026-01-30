@@ -1,0 +1,1 @@
+magine we have a global product launch where a single, highly popular item (a 'hot key') receives a sudden burst of 100 million requests within minutes. How would you design a caching layer to handle this load distribution without overwhelming a single cache node
