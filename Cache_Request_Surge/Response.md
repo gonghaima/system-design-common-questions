@@ -42,6 +42,7 @@
 - "Would you like me to focus on the cache layer or backend protection strategies?"
 
 ## Tips
+
 - Communicate your thought process clearly.
 - Make reasonable assumptions and state them.
 - Be ready to adjust your design based on feedback.

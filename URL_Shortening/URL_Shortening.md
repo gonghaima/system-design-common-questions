@@ -41,6 +41,7 @@
 - "Would you like me to focus on the database design or the short link generation logic?"
 
 ## Tips
+
 - Communicate your thought process clearly.
 - Make reasonable assumptions and state them.
 - Be ready to adjust your design based on feedback.
