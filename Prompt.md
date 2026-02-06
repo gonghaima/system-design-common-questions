@@ -1,5 +1,5 @@
 I am preparing interviews for system design. Can you give me a new common system design question?
-Checking existing questions on /Users/stevengong/study/system-design-common-questions/
+Checking existing questions in this folder /Users/stevengong/study/system-design-common-questions/
 
 follow the same pattern for URL_Shortening, Cache_Request_Surge in /Users/stevengong/study/system-design-common-questions/, can you create folders and file for "Design a Rate Limiter Service".
 
